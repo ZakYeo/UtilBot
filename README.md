@@ -1,4 +1,4 @@
-# BotShop
+# UtilBot
 
 Basic Discord Bot written to increase my confidence in JavaScript.
 
